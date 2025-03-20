@@ -1,6 +1,5 @@
 package restaurant;
 
-import main.Food;
 import people.Chef;
 import people.Visitor;
 

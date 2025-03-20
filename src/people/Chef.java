@@ -2,7 +2,7 @@ package people;
 
 import java.util.*;
 
-import main.Food;
+import restaurant.Food;
 import restaurant.Restaurant;
 
 public class Chef {

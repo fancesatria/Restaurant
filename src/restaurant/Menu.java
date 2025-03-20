@@ -2,8 +2,6 @@ package restaurant;
 
 import java.util.*;
 
-import main.Food;
-
 public class Menu {
 	private String type;
 	private List<Food> foods;
